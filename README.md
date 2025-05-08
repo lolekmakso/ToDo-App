@@ -10,7 +10,7 @@ It offers full CRUD functionality via API, user authentication, and a smooth use
 
 ## 📦 Repository
 
-- 📁 [GitHub Repo](https://github.com/dvdmsk/ToDo-App.git)
+- 📁 [GitHub Repo](https://github.com/lolekmakso/ToDo-App.git)
 
 ## 🛠️ Stack & Tools
 
